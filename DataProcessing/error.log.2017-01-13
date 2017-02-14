@@ -1,0 +1,13 @@
+2017-01-13 15:33:31  [ main:5 ] - [ ERROR ]  正在匹配：--------------------3451---------------------
+2017-01-13 15:33:31  [ main:23 ] - [ ERROR ]  这条轨迹匹配出现问题：3451
+2017-01-13 15:33:31  [ main:24 ] - [ ERROR ]  匹配结束：------------------3451-----------------------
+2017-01-13 15:57:47  [ main:3 ] - [ ERROR ]  正在匹配：--------------------3451---------------------
+2017-01-13 15:58:24  [ main:37394 ] - [ ERROR ]  [ndm.NetworkAnalyse.Match.SolveTimeExceptionPoint(Match.java:706), ndm.NetworkAnalyse.Match.MapMatch(Match.java:359), ndm.NetworkAnalyse.MatchProcess.mapmatching(MatchProcess.java:83), ndm.NetworkAnalyse.MatchProcess.main(MatchProcess.java:32)]
+2017-01-13 15:58:24  [ main:37395 ] - [ ERROR ]  匹配结束：------------------3451-----------------------
+2017-01-13 15:59:21  [ main:2 ] - [ ERROR ]  正在匹配：--------------------3451---------------------
+2017-01-13 15:59:50  [ main:29284 ] - [ ERROR ]  [oracle.jdbc.driver.OraclePreparedStatement.executeBatch(OraclePreparedStatement.java:11190), oracle.jdbc.driver.OracleStatementWrapper.executeBatch(OracleStatementWrapper.java:244), ndm.NetworkAnalyse.Match.SolveTimeExceptionPoint(Match.java:589), ndm.NetworkAnalyse.Match.MapMatch(Match.java:359), ndm.NetworkAnalyse.MatchProcess.mapmatching(MatchProcess.java:83), ndm.NetworkAnalyse.MatchProcess.main(MatchProcess.java:32)]
+2017-01-13 15:59:50  [ main:29284 ] - [ ERROR ]  匹配结束：------------------3451-----------------------
+2017-01-13 16:02:11  [ main:2 ] - [ ERROR ]  正在匹配：--------------------3451---------------------
+2017-01-13 16:02:41  [ main:30271 ] - [ ERROR ]  [oracle.jdbc.driver.OraclePreparedStatement.executeBatch(OraclePreparedStatement.java:11190), oracle.jdbc.driver.OracleStatementWrapper.executeBatch(OracleStatementWrapper.java:244), ndm.NetworkAnalyse.Match.SolveTimeExceptionPoint(Match.java:589), ndm.NetworkAnalyse.Match.MapMatch(Match.java:359), ndm.NetworkAnalyse.MatchProcess.mapmatching(MatchProcess.java:83), ndm.NetworkAnalyse.MatchProcess.main(MatchProcess.java:32)]
+2017-01-13 16:02:41  [ main:30272 ] - [ ERROR ]  匹配结束：------------------3451-----------------------
+2017-01-13 16:07:08  [ main:2 ] - [ ERROR ]  正在匹配：--------------------3451---------------------

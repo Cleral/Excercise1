@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataDealing/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataDealing/lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataDealing/lib/sdoapi.jar"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataDealing/lib/sdonm.jar"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataDealing/lib/sdoutl.jar"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataDealing/lib/xmlparserv2.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.context.support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.instrument-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.instrument.tomcat-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.jdbc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.jms-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.oxm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.test-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.transaction-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.web.portlet-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.web.servlet-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dist/org.springframework.web.struts-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.spring_3.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="me.spring"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/study/javast/DataProcessing/lib/commons-dbcp-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/DataDealing/lib/ojdbc7.jar" sourcepath="/DataDealing/lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="D:/study/javast/DataProcessing/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
